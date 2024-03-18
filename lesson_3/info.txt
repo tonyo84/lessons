@@ -1,0 +1,6 @@
+Customer: John...
+Budget:
+Depozit:
+Deadline:
+Corrections:
+

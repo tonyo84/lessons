@@ -1,0 +1,62 @@
+@import url("reset.css");
+
+/* * {
+	color: blue;
+}  */
+
+/* div {
+	color: rgb(255, 0, 38);
+} */
+
+.list {
+	color: green;
+}
+
+.yellow {
+	color: yellow;
+}
+
+.green {
+	color: green;
+}
+
+/* #first {
+	color: red;
+} */
+
+[class*="tle"] {
+	color: violet;
+}
+
+/* div.text {
+	color: brown;
+} */
+
+.text.block {
+	color: burlywood;
+}
+
+.text,
+.block {
+	color: chartreuse;
+}
+
+.block a {
+	color: crimson;
+}
+
+.article .subtitle {
+	color: darkmagenta;
+}
+
+.lesson > p {
+	color: fuchsia;
+}
+
+.title ~ p {
+	color: darkblue;
+}
+
+.title + p {
+	color: darkgreen;
+}
