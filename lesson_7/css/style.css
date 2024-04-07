@@ -336,7 +336,7 @@ body {
 /* About me */
 .presentation {
 	background-color: #130000;
-	margin-bottom: 60px;
+	/* margin-bottom: 60px; */
 }
 .wrap-2 {
 	max-width: 1150px;
@@ -503,61 +503,9 @@ body {
 
 
 .bottom {
-	line-height: 1.875; 30/16
-}
-/* .two {
-	background-color: #f8f8f8;
-	padding-bottom: 60px;
-}
-.block-block {
-	max-width: 1070px;
-	margin: 0 auto;
-	color: #2b2929;
-	padding-top: 20px;
+	line-height: 1.875;
 }
 
-.title-2 {
-	font-size: 40px;
-	margin-bottom: 40px;
-}
-
-.photo-3 {
-	max-width: 1070px;
-	margin-bottom: 40px;
-	border-radius: 8px;
-	overflow: hidden;
-}
-.photo-3 img {
-	width: 100%;
-}
-
-.section-3 {
-	line-height: 1.875; /* 30/16 */
-	margin-bottom: 40px;
-/* }
-.first {
-	margin-bottom: 10px;
-}
-
-.subtitle-2 {
-	font-size: 20px;
-	line-height: 1.40; /* 28/20 */
-	margin-bottom: 30px;
-}
-
-/* .list {
-	line-height: 1.875; /* 30/16 */
-	/* padding-left: 45px; */
-	margin-bottom: 40px;
-}
-/* .list li {
-	margin-bottom: 35px;
-	background: url("../img/Vector.png") no-repeat;
-	padding-left: 40px;
-}
-.bottom {
-	line-height: 1.875; 30/16
-} */
 
 
 
